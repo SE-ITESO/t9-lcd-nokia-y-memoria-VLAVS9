@@ -1,0 +1,10 @@
+/Users/miguelvladimirvargassanchez/Documents/MCUXpressoIDE_11.9.0_2144/PDS/NOKIA/NOKIA_nk/drivers/fsl_clock.h:668:20:CLOCK_EnableClock	24	static
+/Users/miguelvladimirvargassanchez/Documents/MCUXpressoIDE_11.9.0_2144/PDS/NOKIA/NOKIA_nk/drivers/fsl_gpio.h:191:20:GPIO_PortSet	16	static
+/Users/miguelvladimirvargassanchez/Documents/MCUXpressoIDE_11.9.0_2144/PDS/NOKIA/NOKIA_nk/drivers/fsl_gpio.h:206:20:GPIO_PortClear	16	static
+/Users/miguelvladimirvargassanchez/Documents/MCUXpressoIDE_11.9.0_2144/PDS/NOKIA/NOKIA_nk/drivers/fsl_port.h:374:20:PORT_SetPinMux	24	static
+../source/LCD_nokia.c:10:6:LCD_nokia_init	16	static
+../source/LCD_nokia.c:43:6:LCD_nokia_bitmap	24	static
+../source/LCD_nokia.c:52:6:LCD_nokia_write_byte	32	static
+../source/LCD_nokia.c:77:6:LCD_nokia_clear	16	static
+../source/LCD_nokia.c:84:6:LCD_nokia_goto_xy	16	static
+../source/LCD_nokia.c:89:6:LCD_nokia_delay	16	static
